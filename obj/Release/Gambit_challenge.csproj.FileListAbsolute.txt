@@ -1,0 +1,9 @@
+C:\Users\Lu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Lu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Lu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Lu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Lu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Gambit_challenge.csproj.GenerateResource.Cache
+C:\Users\Lu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Gambit_challenge.csproj.CoreCompileInputs.cache
+C:\Users\Lu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Lu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
